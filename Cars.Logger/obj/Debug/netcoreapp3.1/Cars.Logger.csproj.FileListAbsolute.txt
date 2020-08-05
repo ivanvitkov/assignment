@@ -1,0 +1,9 @@
+C:\Users\Desktop\source\repos\Cars\Cars.Logger\bin\Debug\netcoreapp3.1\Cars.Logger.deps.json
+C:\Users\Desktop\source\repos\Cars\Cars.Logger\bin\Debug\netcoreapp3.1\Cars.Logger.dll
+C:\Users\Desktop\source\repos\Cars\Cars.Logger\obj\Debug\netcoreapp3.1\Cars.Logger.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\Cars\Cars.Logger\obj\Debug\netcoreapp3.1\Cars.Logger.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\Cars\Cars.Logger\obj\Debug\netcoreapp3.1\Cars.Logger.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\Cars\Cars.Logger\bin\Debug\netcoreapp3.1\Cars.Logger.pdb
+C:\Users\Desktop\source\repos\Cars\Cars.Logger\obj\Debug\netcoreapp3.1\Cars.Logger.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\Cars\Cars.Logger\obj\Debug\netcoreapp3.1\Cars.Logger.dll
+C:\Users\Desktop\source\repos\Cars\Cars.Logger\obj\Debug\netcoreapp3.1\Cars.Logger.pdb

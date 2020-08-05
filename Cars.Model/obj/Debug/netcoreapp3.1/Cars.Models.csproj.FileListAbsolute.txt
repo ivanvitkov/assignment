@@ -1,0 +1,9 @@
+C:\Users\Desktop\source\repos\Cars\Cars.Model\bin\Debug\netcoreapp3.1\Cars.Models.deps.json
+C:\Users\Desktop\source\repos\Cars\Cars.Model\bin\Debug\netcoreapp3.1\Cars.Models.dll
+C:\Users\Desktop\source\repos\Cars\Cars.Model\bin\Debug\netcoreapp3.1\Cars.Models.pdb
+C:\Users\Desktop\source\repos\Cars\Cars.Model\obj\Debug\netcoreapp3.1\Cars.Models.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\Cars\Cars.Model\obj\Debug\netcoreapp3.1\Cars.Models.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\Cars\Cars.Model\obj\Debug\netcoreapp3.1\Cars.Models.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\Cars\Cars.Model\obj\Debug\netcoreapp3.1\Cars.Models.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\Cars\Cars.Model\obj\Debug\netcoreapp3.1\Cars.Models.dll
+C:\Users\Desktop\source\repos\Cars\Cars.Model\obj\Debug\netcoreapp3.1\Cars.Models.pdb

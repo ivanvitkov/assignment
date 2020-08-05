@@ -1,0 +1,16 @@
+C:\Users\Desktop\source\repos\Cars\Cars.Repository\bin\Debug\netcoreapp3.1\Cars.Repository.deps.json
+C:\Users\Desktop\source\repos\Cars\Cars.Repository\bin\Debug\netcoreapp3.1\Cars.Repository.dll
+C:\Users\Desktop\source\repos\Cars\Cars.Repository\bin\Debug\netcoreapp3.1\Cars.Repository.pdb
+C:\Users\Desktop\source\repos\Cars\Cars.Repository\obj\Debug\netcoreapp3.1\Cars.Repository.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\Cars\Cars.Repository\obj\Debug\netcoreapp3.1\Cars.Repository.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\Cars\Cars.Repository\obj\Debug\netcoreapp3.1\Cars.Repository.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\Cars\Cars.Repository\obj\Debug\netcoreapp3.1\Cars.Repository.dll
+C:\Users\Desktop\source\repos\Cars\Cars.Repository\obj\Debug\netcoreapp3.1\Cars.Repository.pdb
+C:\Users\Desktop\source\repos\Cars\Cars.Repository\bin\Debug\netcoreapp3.1\Cars.Models.dll
+C:\Users\Desktop\source\repos\Cars\Cars.Repository\bin\Debug\netcoreapp3.1\CarsContext.dll
+C:\Users\Desktop\source\repos\Cars\Cars.Repository\bin\Debug\netcoreapp3.1\Cars.Models.pdb
+C:\Users\Desktop\source\repos\Cars\Cars.Repository\bin\Debug\netcoreapp3.1\CarsContext.pdb
+C:\Users\Desktop\source\repos\Cars\Cars.Repository\obj\Debug\netcoreapp3.1\Cars.Repository.csproj.CopyComplete
+C:\Users\Desktop\source\repos\Cars\Cars.Repository\bin\Debug\netcoreapp3.1\Cars.Helpers.dll
+C:\Users\Desktop\source\repos\Cars\Cars.Repository\bin\Debug\netcoreapp3.1\Cars.Helpers.pdb
+C:\Users\Desktop\source\repos\Cars\Cars.Repository\obj\Debug\netcoreapp3.1\Cars.Repository.csproj.CoreCompileInputs.cache

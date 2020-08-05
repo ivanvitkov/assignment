@@ -1,0 +1,21 @@
+2020-08-01 00:00:32.171 +02:00 [ERR] Something went wrong: Lambda expression used inside Include is not valid.
+2020-08-01 00:01:56.183 +02:00 [INF] Returned all manufacturers from database
+2020-08-01 00:06:08.008 +02:00 [INF] Returned all manufacturers from database
+2020-08-01 00:09:19.254 +02:00 [INF] Returned all manufacturers from database
+2020-08-01 00:09:48.841 +02:00 [INF] Returned all manufacturers from database
+2020-08-01 00:10:58.584 +02:00 [INF] Returned all manufacturers from database
+2020-08-01 00:11:07.420 +02:00 [ERR] Something went wrong: Unknown column 'm0.Year' in 'field list'
+2020-08-01 00:11:14.635 +02:00 [ERR] Something went wrong: Unknown column 'm0.Year' in 'field list'
+2020-08-01 00:13:23.150 +02:00 [INF] Returned all manufacturers from database
+2020-08-01 00:13:28.417 +02:00 [INF] Returned all manufacturers with models from database
+2020-08-01 00:13:35.544 +02:00 [INF] Returned all manufacturers with models from database
+2020-08-01 00:13:42.648 +02:00 [INF] Returned all manufacturers with models from database
+2020-08-01 00:14:03.059 +02:00 [INF] Returned all manufacturers with models from database
+2020-08-01 00:14:32.863 +02:00 [INF] Returned all manufacturers with models from database
+2020-08-01 00:15:37.849 +02:00 [INF] Returned all manufacturers from database
+2020-08-01 00:15:44.114 +02:00 [INF] Returned all manufacturers with models from database
+2020-08-01 00:18:49.713 +02:00 [INF] Returned all manufacturers from database
+2020-08-01 00:18:55.990 +02:00 [INF] Returned all manufacturers with models from database
+2020-08-01 00:19:30.874 +02:00 [INF] Returned all manufacturers from database
+2020-08-01 00:19:40.771 +02:00 [INF] Returned all manufacturers from database
+2020-08-01 00:19:47.221 +02:00 [INF] Returned all manufacturers with models from database

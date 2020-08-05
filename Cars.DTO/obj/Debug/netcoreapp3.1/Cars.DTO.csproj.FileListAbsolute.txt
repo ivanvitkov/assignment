@@ -1,0 +1,9 @@
+C:\Users\Desktop\source\repos\Cars\Cars.DTO\bin\Debug\netcoreapp3.1\Cars.DTO.deps.json
+C:\Users\Desktop\source\repos\Cars\Cars.DTO\bin\Debug\netcoreapp3.1\Cars.DTO.dll
+C:\Users\Desktop\source\repos\Cars\Cars.DTO\bin\Debug\netcoreapp3.1\Cars.DTO.pdb
+C:\Users\Desktop\source\repos\Cars\Cars.DTO\obj\Debug\netcoreapp3.1\Cars.DTO.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\Cars\Cars.DTO\obj\Debug\netcoreapp3.1\Cars.DTO.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\Cars\Cars.DTO\obj\Debug\netcoreapp3.1\Cars.DTO.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\Cars\Cars.DTO\obj\Debug\netcoreapp3.1\Cars.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\Cars\Cars.DTO\obj\Debug\netcoreapp3.1\Cars.DTO.dll
+C:\Users\Desktop\source\repos\Cars\Cars.DTO\obj\Debug\netcoreapp3.1\Cars.DTO.pdb

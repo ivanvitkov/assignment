@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fSMfZCFEI1GIr4bTOFHzRv2uRoUfEd9o/6tBRSyvpYVLCv+ZgvnjDxPQxT/qCvFKnQFD3nsCgAwxF+ndHIoGfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Desktop\\source\\repos\\Cars\\Cars.Helpers\\Cars.Helpers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desktop\\.nuget\\packages\\system.linq.dynamic.core\\1.2.0\\system.linq.dynamic.core.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

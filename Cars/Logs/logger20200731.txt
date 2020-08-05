@@ -1,0 +1,45 @@
+
+2020-07-31 21:57:09.199 +02:00 [INF] Returned all manufacturers from database
+2020-07-31 21:57:58.398 +02:00 [INF] Returned all manufacturers from database
+2020-07-31 22:16:49.766 +02:00 [ERR] Something went wrong: Error mapping types.
+
+Mapping types:
+Object -> IEnumerable`1
+System.Object -> System.Collections.Generic.IEnumerable`1[[Cars.DTO.ManufacturerDTO, Cars.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2020-07-31 22:17:20.828 +02:00 [ERR] Something went wrong: Error mapping types.
+
+Mapping types:
+Object -> IEnumerable`1
+System.Object -> System.Collections.Generic.IEnumerable`1[[Cars.DTO.ManufacturerDTO, Cars.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2020-07-31 22:17:26.465 +02:00 [ERR] Something went wrong: Error mapping types.
+
+Mapping types:
+Object -> IEnumerable`1
+System.Object -> System.Collections.Generic.IEnumerable`1[[Cars.DTO.ManufacturerDTO, Cars.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+2020-07-31 22:21:19.925 +02:00 [INF] Returned all manufacturers from database
+2020-07-31 22:21:46.793 +02:00 [INF] Returned all manufacturers from database
+2020-07-31 22:27:38.064 +02:00 [INF] Returned all manufacturers from database
+2020-07-31 22:42:41.884 +02:00 [INF] Returned all manufacturers from database
+2020-07-31 22:43:56.466 +02:00 [INF] Returned all manufacturers from database
+2020-07-31 23:00:52.999 +02:00 [INF] Returned all manufacturers from database
+2020-07-31 23:08:36.586 +02:00 [INF] Returned all manufacturers from database
+2020-07-31 23:08:51.946 +02:00 [ERR] Something went wrong: Unknown column 'm.ManufacturerId' in 'field list'
+2020-07-31 23:08:59.335 +02:00 [ERR] Something went wrong: Unknown column 'm.ManufacturerId' in 'field list'
+2020-07-31 23:09:12.114 +02:00 [ERR] Something went wrong: Unknown column 'm.ManufacturerId' in 'field list'
+2020-07-31 23:10:11.082 +02:00 [INF] Returned all manufacturers from database
+2020-07-31 23:10:22.969 +02:00 [ERR] Something went wrong: Unknown column 'm.ManufacturerId' in 'field list'
+2020-07-31 23:13:13.217 +02:00 [INF] Returned all manufacturers from database
+2020-07-31 23:13:40.560 +02:00 [INF] Returned all manufacturers from database
+2020-07-31 23:13:47.794 +02:00 [ERR] Something went wrong: Unknown column 'm.ManufacturerId' in 'field list'
+2020-07-31 23:15:03.357 +02:00 [INF] Returned all manufacturers from database
+2020-07-31 23:15:07.742 +02:00 [ERR] Something went wrong: Unknown column 'm.ManufacturerId' in 'field list'
+2020-07-31 23:48:49.819 +02:00 [INF] Returned all manufacturers from database
+2020-07-31 23:49:14.424 +02:00 [INF] Returned all manufacturers from database
+2020-07-31 23:52:20.506 +02:00 [INF] Returned all manufacturers from database
+2020-07-31 23:52:41.743 +02:00 [ERR] Something went wrong: Unknown column 'm0.ManufacturerId' in 'field list'
+2020-07-31 23:52:47.139 +02:00 [ERR] Something went wrong: Unknown column 'm0.ManufacturerId' in 'field list'
+2020-07-31 23:55:24.158 +02:00 [ERR] Something went wrong: Unknown column 'm0.ManufacturerId' in 'field list'
+2020-07-31 23:56:41.924 +02:00 [ERR] Something went wrong: Unknown column 'm0.ManufacturerId' in 'field list'
+2020-07-31 23:57:27.214 +02:00 [ERR] Something went wrong: Unknown column 'm0.ManufacturerId' in 'field list'
+2020-07-31 23:58:20.464 +02:00 [ERR] Something went wrong: Unknown column 'm0.Year' in 'field list'
+2020-07-31 23:59:00.729 +02:00 [ERR] Something went wrong: Unknown column 'm0.Year' in 'field list'

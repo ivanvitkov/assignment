@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cars.Helpers\Cars.Helpers.csproj" />
+    <ProjectReference Include="..\Cars.Model\Cars.Models.csproj" />
+    <ProjectReference Include="..\CarsContext\CarsContext.csproj" />
+  </ItemGroup>
+
+</Project>

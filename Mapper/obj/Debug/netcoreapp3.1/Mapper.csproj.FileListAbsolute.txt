@@ -1,0 +1,14 @@
+C:\Users\Desktop\source\repos\Cars\Mapper\bin\Debug\netcoreapp3.1\Mapper.deps.json
+C:\Users\Desktop\source\repos\Cars\Mapper\bin\Debug\netcoreapp3.1\Mapper.dll
+C:\Users\Desktop\source\repos\Cars\Mapper\obj\Debug\netcoreapp3.1\Mapper.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\Cars\Mapper\obj\Debug\netcoreapp3.1\Mapper.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\Cars\Mapper\obj\Debug\netcoreapp3.1\Mapper.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\Cars\Mapper\bin\Debug\netcoreapp3.1\Mapper.pdb
+C:\Users\Desktop\source\repos\Cars\Mapper\bin\Debug\netcoreapp3.1\Cars.DTO.dll
+C:\Users\Desktop\source\repos\Cars\Mapper\bin\Debug\netcoreapp3.1\Cars.Models.dll
+C:\Users\Desktop\source\repos\Cars\Mapper\bin\Debug\netcoreapp3.1\Cars.DTO.pdb
+C:\Users\Desktop\source\repos\Cars\Mapper\bin\Debug\netcoreapp3.1\Cars.Models.pdb
+C:\Users\Desktop\source\repos\Cars\Mapper\obj\Debug\netcoreapp3.1\Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\Cars\Mapper\obj\Debug\netcoreapp3.1\Mapper.csproj.CopyComplete
+C:\Users\Desktop\source\repos\Cars\Mapper\obj\Debug\netcoreapp3.1\Mapper.dll
+C:\Users\Desktop\source\repos\Cars\Mapper\obj\Debug\netcoreapp3.1\Mapper.pdb

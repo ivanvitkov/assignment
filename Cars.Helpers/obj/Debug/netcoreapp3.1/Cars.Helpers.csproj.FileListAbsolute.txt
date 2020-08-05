@@ -1,0 +1,9 @@
+C:\Users\Desktop\source\repos\Cars\Cars.Helpers\bin\Debug\netcoreapp3.1\Cars.Helpers.deps.json
+C:\Users\Desktop\source\repos\Cars\Cars.Helpers\bin\Debug\netcoreapp3.1\Cars.Helpers.dll
+C:\Users\Desktop\source\repos\Cars\Cars.Helpers\bin\Debug\netcoreapp3.1\Cars.Helpers.pdb
+C:\Users\Desktop\source\repos\Cars\Cars.Helpers\obj\Debug\netcoreapp3.1\Cars.Helpers.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\Cars\Cars.Helpers\obj\Debug\netcoreapp3.1\Cars.Helpers.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\Cars\Cars.Helpers\obj\Debug\netcoreapp3.1\Cars.Helpers.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\Cars\Cars.Helpers\obj\Debug\netcoreapp3.1\Cars.Helpers.dll
+C:\Users\Desktop\source\repos\Cars\Cars.Helpers\obj\Debug\netcoreapp3.1\Cars.Helpers.pdb
+C:\Users\Desktop\source\repos\Cars\Cars.Helpers\obj\Debug\netcoreapp3.1\Cars.Helpers.csproj.CoreCompileInputs.cache
